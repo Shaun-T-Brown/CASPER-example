@@ -1,4 +1,4 @@
 numpy
 scipy
-py-casper
+py-casper>=0.0.5
 matplotlib
