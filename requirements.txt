@@ -1,3 +1,4 @@
+gfortran
 numpy
 scipy
 py-casper>=0.0.5
