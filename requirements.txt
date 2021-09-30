@@ -1,5 +1,5 @@
 numpy
 scipy
-py-casper>=0.0.5
+py-casper>=0.1.0
 matplotlib
 camb
