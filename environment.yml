@@ -1,0 +1,6 @@
+dependencies:
+    numpy
+    scipy
+    matplotlib
+    fortran-compiler
+    camb

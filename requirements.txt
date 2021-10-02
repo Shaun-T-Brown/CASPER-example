@@ -1,5 +1,0 @@
-numpy
-scipy
-py-casper>=0.2.1
-matplotlib
-camb
