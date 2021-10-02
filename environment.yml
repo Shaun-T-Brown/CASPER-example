@@ -1,4 +1,7 @@
+name: Casper-example
 dependencies:
-    numpy
-    scipy
-    matplotlib
+    - numpy
+    - scipy
+    - matplotlib
+    - fortran-compiler
+    - camb
