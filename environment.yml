@@ -5,3 +5,5 @@ dependencies:
     - matplotlib
     - fortran-compiler
     - camb
+    - pip:
+      - py-casper
