@@ -6,4 +6,4 @@ dependencies:
     - fortran-compiler
     - camb
     - pip:
-      - py-casper
+      - py-casper>=1.1.0
